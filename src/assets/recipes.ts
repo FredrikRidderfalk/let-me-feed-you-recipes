@@ -106,8 +106,10 @@ import { mangoChutnyCurry } from './recipes/mango-chutney-curry';
 import { enfrijoladas } from './recipes/enfrijoladas';
 import { cigKofte } from './recipes/cig-kofte';
 import { lynchburgLemonade } from './recipes/lynchburg-lemonade';
+import { gochujangTofuNoodles } from './recipes/gochujang-tofu-noodles';
 
 export const Recipes = [
+  gochujangTofuNoodles,
   lynchburgLemonade,
   cigKofte,
   enfrijoladas,
