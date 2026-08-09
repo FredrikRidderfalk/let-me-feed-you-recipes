@@ -1,7 +1,7 @@
 export const mushroomBourguignon = {
   name: 'Mushroom Bourguignon',
   param: 'mushroom-bourguignon',
-  recipeImage: '../assets/images/mushroom-bourguignon.jpg',
+  recipeImage: 'assets/images/mushroom-bourguignon.jpg',
   star: false,
   introText:
     'This hearty mushroom bourguignon is a rich and comforting dish, perfect for cozy evenings or special occasions.',

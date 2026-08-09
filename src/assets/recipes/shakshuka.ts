@@ -1,7 +1,7 @@
 export const shakshuka = {
   name: 'Shakshuka',
   param: 'shakshuka',
-  recipeImage: '../assets/images/shakshuka.jpg',
+  recipeImage: 'assets/images/shakshuka.jpg',
   star: false,
   introText: 'A hearty and flavorful dish with a spicy tomato sauce, perfect for breakfast or brunch.',
   description:

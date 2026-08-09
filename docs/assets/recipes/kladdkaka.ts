@@ -1,7 +1,7 @@
 export const kladdkaka = {
   name: 'Kladdkaka',
   param: 'kladdkaka',
-  recipeImage: '../assets/images/kladdkaka.jpg',
+  recipeImage: 'assets/images/kladdkaka.jpg',
   star: false,
   introText:
     'Kladdkaka is a rich and gooey Swedish chocolate cake, similar to a brownie but with a delightfully underbaked center.',

@@ -1,7 +1,7 @@
 export const gochujangNoodles = {
   name: 'Gochujang Noodles',
   param: 'gochujang-noodles',
-  recipeImage: '../assets/images/gochujang-noodles.jpg',
+  recipeImage: 'assets/images/gochujang-noodles.jpg',
   star: false,
   introText: 'Spicy and savory Korean-inspired noodles with a rich gochujang sauce.',
   description:

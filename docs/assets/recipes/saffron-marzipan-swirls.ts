@@ -1,7 +1,7 @@
 export const saffronMarzipanSwirls = {
   name: 'Saffron Marzipan Swirls',
   param: 'saffron-marzipan-swirls',
-  recipeImage: '../assets/images/saffron-marzipan-swirls.jpg',
+  recipeImage: 'assets/images/saffron-marzipan-swirls.jpg',
   star: false,
   introText:
     'Soft, fluffy, and perfectly spiced, these saffron marzipan swirls are a seasonal treat that’s perfect for any time of day.',

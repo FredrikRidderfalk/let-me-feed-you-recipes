@@ -1,7 +1,7 @@
 export const cremeBrulee = {
   name: 'Crème Brûlée',
   param: 'creme-brulee',
-  recipeImage: '../assets/images/creme-brulee.jpg',
+  recipeImage: 'assets/images/creme-brulee.jpg',
   star: false,
   introText: 'Indulge in this silky vegan crème brûlée, a plant-based twist on the classic French dessert.',
   description:

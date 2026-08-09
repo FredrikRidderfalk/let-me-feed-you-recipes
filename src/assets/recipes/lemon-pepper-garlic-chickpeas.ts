@@ -1,7 +1,7 @@
 export const lemonPepperGarlicChickpeas = {
   name: 'Lemon Pepper Garlic Chickpeas',
   param: 'lemon-pepper-garlic-chickpeas',
-  recipeImage: '../assets/images/lemon-pepper-garlic-chickpeas.jpg',
+  recipeImage: 'assets/images/lemon-pepper-garlic-chickpeas.jpg',
   star: false,
   introText: 'Creamy, garlicky chickpeas with a bright lemon pepper flavor in a rich sauce.',
   description:

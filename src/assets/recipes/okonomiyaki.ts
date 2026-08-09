@@ -1,7 +1,7 @@
 export const okonomiyaki = {
   name: 'Okonomiyaki',
   param: 'okonomiyaki',
-  recipeImage: '../assets/images/okonomiyaki.jpg',
+  recipeImage: 'assets/images/okonomiyaki.jpg',
   star: false,
   introText:
     'A savory Japanese cabbage pancake topped with a tangy-sweet sauce, creamy mayo, and a variety of umami-rich garnishes.',

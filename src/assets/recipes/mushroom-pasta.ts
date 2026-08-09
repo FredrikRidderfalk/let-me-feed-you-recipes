@@ -1,7 +1,7 @@
 export const mushroomPasta = {
   name: 'Mushroom Pasta',
   param: 'mushroom-pasta',
-  recipeImage: '../assets/images/mushroom-pasta.jpg',
+  recipeImage: 'assets/images/mushroom-pasta.jpg',
   star: false,
   introText: 'A creamy and flavorful mushroom pasta that is quick and easy to make, perfect for a weeknight dinner.',
   description:

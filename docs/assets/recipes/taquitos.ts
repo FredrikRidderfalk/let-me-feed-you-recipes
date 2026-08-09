@@ -1,7 +1,7 @@
 export const taquitos = {
   name: 'Bean Tacos',
   param: 'taquitos',
-  recipeImage: '../assets/images/taquitos.jpg',
+  recipeImage: 'assets/images/taquitos.jpg',
   star: false,
   introText: 'Crispy, flavorful, and perfect for dipping, these tacos make a delicious snack or main dish.',
   description:

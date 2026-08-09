@@ -1,7 +1,7 @@
 export const chiaOats = {
   name: 'Chia Oats',
   param: 'chia-oats',
-  recipeImage: '../assets/images/chia-oats.jpg',
+  recipeImage: 'assets/images/chia-oats.jpg',
   star: false,
   introText:
     'Packed with fiber, protein, and healthy fats, they make a balanced and delicious breakfast that you can prepare ahead of time.',

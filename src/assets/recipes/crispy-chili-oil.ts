@@ -1,7 +1,7 @@
 export const crispyChiliOil = {
   name: 'Crispy Chili Oil',
   param: 'crispy-chili-oil',
-  recipeImage: '../assets/images/crispy-chili-oil.jpg',
+  recipeImage: 'assets/images/crispy-chili-oil.jpg',
   star: false,
   introText:
     'This crispy chili oil is packed with bold flavors, combining aromatic spices and a fiery kick for a versatile condiment that enhances any dish.',

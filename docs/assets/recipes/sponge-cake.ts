@@ -1,7 +1,7 @@
 export const spongeCake = {
   name: 'Sponge Cake',
   param: 'sponge-cake',
-  recipeImage: '../assets/images/sponge-cake.jpg',
+  recipeImage: 'assets/images/sponge-cake.jpg',
   star: false,
   introText:
     'This light and fluffy sponge cake is perfect for any occasion. Whether enjoyed plain or layered with fillings, it’s a simple yet delicious treat.',

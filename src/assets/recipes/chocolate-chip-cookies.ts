@@ -1,7 +1,7 @@
 export const chocolateChipCookies = {
   name: 'Chocolate Chip Cookies',
   param: 'chocolate-chip-cookies',
-  recipeImage: '../assets/images/chocolate-chip-cookies.jpg',
+  recipeImage: 'assets/images/chocolate-chip-cookies.jpg',
   star: false,
   introText:
     'Indulge in the timeless delight of warm, gooey chocolate chip cookies. Perfectly chewy with crispy edges, they’re the ultimate treat for any occasion.',

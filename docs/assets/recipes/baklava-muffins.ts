@@ -1,7 +1,7 @@
 export const baklavaMuffins = {
   name: 'Baklava Muffins',
   param: 'baklava-muffins',
-  recipeImage: '../assets/images/baklava-muffins.jpg',
+  recipeImage: 'assets/images/baklava-muffins.jpg',
   star: false,
   introText:
     'Fragrant muffins inspired by baklava, with ground pistachios, rose water, and a sweet, crunchy pistachio-sugar topping.',

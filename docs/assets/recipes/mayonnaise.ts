@@ -1,7 +1,7 @@
 export const mayonnaise = {
   name: 'Mayonnaise',
   param: 'mayonnaise',
-  recipeImage: '../assets/images/mayonnaise.jpg',
+  recipeImage: 'assets/images/mayonnaise.jpg',
   star: false,
   introText:
     'A rich and creamy mayonnaise that is perfect as a dip or spread. This plant-based version uses aquafaba to create a luscious texture similar to traditional mayo, but without eggs.',

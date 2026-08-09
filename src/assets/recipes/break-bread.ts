@@ -1,7 +1,7 @@
 export const breakBread = {
   name: 'Break Bread',
   param: 'break-bread',
-  recipeImage: '../assets/images/break-bread.jpg',
+  recipeImage: 'assets/images/break-bread.jpg',
   star: false,
   introText: 'Called "Break Bread" because it is meant to be shared with others.',
   description:

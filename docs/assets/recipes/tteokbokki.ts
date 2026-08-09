@@ -1,7 +1,7 @@
 export const tteokbokki = {
   name: 'Tteokbokki',
   param: 'tteokbokki',
-  recipeImage: '../assets/images/tteokbokki.jpg',
+  recipeImage: 'assets/images/tteokbokki.jpg',
   star: false,
   introText: 'Tteokbokki brings the fiery-sweet flavors of Korean street food to your table.',
   description:

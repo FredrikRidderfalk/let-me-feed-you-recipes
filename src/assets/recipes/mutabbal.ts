@@ -1,7 +1,7 @@
 export const mutabbal = {
   name: 'Mutabbal',
   param: 'mutabbal',
-  recipeImage: '../assets/images/mutabbal.jpg',
+  recipeImage: 'assets/images/mutabbal.jpg',
   star: false,
   introText:
     'Mutabbal is a creamy, smoky, and flavorful eggplant dip that makes for the perfect appetizer or side dish. It’s a classic Middle Eastern favorite that pairs well with pita bread or fresh veggies.',

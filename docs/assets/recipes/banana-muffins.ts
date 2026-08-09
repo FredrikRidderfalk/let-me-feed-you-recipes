@@ -1,7 +1,7 @@
 export const bananaMuffins = {
   name: 'Banana Muffins',
   param: 'banana-muffins',
-  recipeImage: '../assets/images/banana-muffins.jpg',
+  recipeImage: 'assets/images/banana-muffins.jpg',
   star: false,
   introText:
     'These moist and flavorful banana muffins are a delicious way to use up ripe bananas. Simple, sweet, and perfect for breakfast or a snack!',

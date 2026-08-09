@@ -1,7 +1,7 @@
 export const mapoTofu = {
   name: 'Mapo Tofu',
   param: 'mapo-tofu',
-  recipeImage: '../assets/images/mapo-tofu.jpg',
+  recipeImage: 'assets/images/mapo-tofu.jpg',
   star: true,
   introText: 'A classic Szechuan dish featuring silky tofu in a spicy, savory sauce.',
   description:

@@ -1,7 +1,7 @@
 export const dryCaramel = {
   name: 'Dry Caramel',
   param: 'dry-caramel',
-  recipeImage: '../assets/images/dry-caramel.jpg',
+  recipeImage: 'assets/images/dry-caramel.jpg',
   star: false,
   introText: "Dry caramel is perfect for salted caramel that needs rigidity and doesn't ooze.",
   description:

@@ -1,7 +1,7 @@
 export const americanCinnamonRolls = {
   name: 'American Cinnamon Rolls',
   param: 'american-cinnamon-rolls',
-  recipeImage: '../assets/images/american-cinnamon-rolls.jpg',
+  recipeImage: 'assets/images/american-cinnamon-rolls.jpg',
   star: false,
   introText: 'Cinnamon rolls, but stickier, messier, squeezed together, and topped with a glaze.',
   description:

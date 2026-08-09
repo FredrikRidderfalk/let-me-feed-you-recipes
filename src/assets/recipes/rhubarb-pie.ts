@@ -1,7 +1,7 @@
 export const rhubarbPie = {
   name: 'Rhubarb Pie',
   param: 'rhubarb-pie',
-  recipeImage: '../assets/images/rhubarb-pie.jpg',
+  recipeImage: 'assets/images/rhubarb-pie.jpg',
   star: false,
   introText: 'A delicious and rustic rhubarb pie with a sweet oat crumble topping.',
   description:

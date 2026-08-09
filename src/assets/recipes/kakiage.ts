@@ -1,7 +1,7 @@
 export const kakiage = {
   name: 'Kakiage',
   param: 'kakiage',
-  recipeImage: '../assets/images/kakiage.jpg',
+  recipeImage: 'assets/images/kakiage.jpg',
   star: false,
   introText: 'Crispy, golden, and packed with vegetables, these fritters are the perfect snack or appetizer.',
   description:

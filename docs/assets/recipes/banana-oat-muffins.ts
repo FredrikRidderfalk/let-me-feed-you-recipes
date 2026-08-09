@@ -1,7 +1,7 @@
 export const bananaOatMuffins = {
   name: 'Banana Oat Muffins',
   param: 'banana-oat-muffins',
-  recipeImage: '../assets/images/banana-oat-muffins.jpg',
+  recipeImage: 'assets/images/banana-oat-muffins.jpg',
   star: false,
   introText:
     'These moist and hearty banana oat muffins combine the wholesome goodness of oats with the natural sweetness of ripe bananas. Perfect for a nutritious breakfast or snack!',

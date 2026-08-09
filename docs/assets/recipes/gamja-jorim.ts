@@ -1,7 +1,7 @@
 export const gamjaJorim = {
   name: 'Gamja Jorim',
   param: 'gamja-jorim',
-  recipeImage: '../assets/images/gamja-jorim.jpg',
+  recipeImage: 'assets/images/gamja-jorim.jpg',
   star: false,
   introText:
     'Gamja Jorim, or braised potatoes, is a beloved Korean side dish featuring tender potatoes in a savory-sweet soy glaze.',

@@ -1,7 +1,7 @@
 export const balsamicDressing = {
   name: 'Balsamic Dressing',
   param: 'balsamic-dressing',
-  recipeImage: '../assets/images/balsamic-dressing.jpg',
+  recipeImage: 'assets/images/balsamic-dressing.jpg',
   star: false,
   introText: 'A balanced blend of tangy, sweet, and savory flavors, fitting any salad or roasted vegetable dish.',
   description:

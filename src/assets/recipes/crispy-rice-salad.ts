@@ -1,7 +1,7 @@
 export const crispyRiceSalad = {
   name: 'Crispy Rice Salad',
   param: 'crispy-rice-salad',
-  recipeImage: '../assets/images/crispy-rice-salad.jpg',
+  recipeImage: 'assets/images/crispy-rice-salad.jpg',
   star: false,
   introText:
     'This crispy rice salad is a delightful mix of textures and flavors, perfect for a quick lunch or a refreshing side dish.',

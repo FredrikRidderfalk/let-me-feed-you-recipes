@@ -1,7 +1,7 @@
 export const peanutButterCornflakeBars = {
   name: 'Peanut Butter Cornflake Bars',
   param: 'peanut-butter-cornflake-bars',
-  recipeImage: '../assets/images/peanut-butter-cornflake-bars.jpg',
+  recipeImage: 'assets/images/peanut-butter-cornflake-bars.jpg',
   star: false,
   introText: 'These Peanut Butter Cornflake Bars are the perfect no-bake treat – crunchy, nutty, and satisfying.',
   description:

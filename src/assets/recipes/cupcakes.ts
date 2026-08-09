@@ -1,7 +1,7 @@
 export const cupcakes = {
   name: 'Cupcakes',
   param: 'cupcakes',
-  recipeImage: '../assets/images/cupcakes.jpg',
+  recipeImage: 'assets/images/cupcakes.jpg',
   star: false,
   introText:
     'These delightful cupcakes topped with silky Swiss meringue buttercream are perfect for celebrations or as a special treat. Light, fluffy, and beautifully frosted!',

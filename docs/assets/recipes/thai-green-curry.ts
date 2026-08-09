@@ -1,7 +1,7 @@
 export const thaiGreenCurry = {
   name: 'Thai Green Curry',
   param: 'thai-green-curry',
-  recipeImage: '../assets/images/thai-green-curry.jpg',
+  recipeImage: 'assets/images/thai-green-curry.jpg',
   star: false,
   introText: 'This Thai green curry is a fragrant and vibrant dish packed with fresh veggies.',
   description:

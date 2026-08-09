@@ -1,7 +1,7 @@
 export const rootVegetableStew = {
   name: 'Root Vegetable Stew',
   param: 'root-vegetable-stew',
-  recipeImage: '../assets/images/root-vegetable-stew.jpg',
+  recipeImage: 'assets/images/root-vegetable-stew.jpg',
   star: false,
   introText:
     'This hearty root vegetable stew is a comforting and wholesome meal packed with nutrients and earthy flavors.',

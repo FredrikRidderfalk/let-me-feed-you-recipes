@@ -1,7 +1,7 @@
 export const mushroomPolenta = {
   name: 'Mushroom Polenta',
   param: 'mushroom-polenta',
-  recipeImage: '../assets/images/mushroom-polenta.jpg',
+  recipeImage: 'assets/images/mushroom-polenta.jpg',
   star: false,
   introText:
     'A warm and hearty dish perfect for any occasion. This creamy polenta is topped with a savory mixture of mushrooms and onions, enhanced by the umami flavors of balsamic vinegar and soy sauce.',

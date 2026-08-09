@@ -1,7 +1,7 @@
 export const scallionSesameWaffles = {
   name: 'Scallion Sesame Waffles',
   param: 'scallion-sesame-waffles',
-  recipeImage: '../assets/images/waffles.jpg',
+  recipeImage: 'assets/images/waffles.jpg',
   star: false,
   introText: 'These waffles are infused with fresh scallion and toasted sesame flavors for a savory twist.',
   description:

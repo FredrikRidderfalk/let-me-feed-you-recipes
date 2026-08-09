@@ -1,7 +1,7 @@
 export const scallionPancakes = {
   name: 'Scallion Pancakes',
   param: 'scallion-pancakes',
-  recipeImage: '../assets/images/scallion-pancakes.jpg',
+  recipeImage: 'assets/images/scallion-pancakes.jpg',
   star: false,
   introText: 'Crispy, flaky, and loaded with fresh scallions.',
   description:

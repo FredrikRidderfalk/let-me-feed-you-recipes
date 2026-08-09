@@ -2,7 +2,7 @@
 export const karēRaisu = {
   name: 'Karē Raisu',
   param: 'kare-raisu',
-  recipeImage: '../assets/images/kare-raisu.jpg',
+  recipeImage: 'assets/images/kare-raisu.jpg',
   star: false,
   introText:
     'Karē raisu, or Japanese curry rice, is a staple in Japanese households and is loved for its simplicity and deliciousness.',

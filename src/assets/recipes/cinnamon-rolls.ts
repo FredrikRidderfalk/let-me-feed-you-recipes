@@ -1,7 +1,7 @@
 export const cinnamonRolls = {
   name: 'Cinnamon Rolls',
   param: 'cinnamon-rolls',
-  recipeImage: '../assets/images/cinnamon-rolls.jpg',
+  recipeImage: 'assets/images/cinnamon-rolls.jpg',
   star: false,
   introText:
     'Soft, fluffy, and perfectly spiced, these vegan cinnamon rolls are a classic treat that’s perfect for any time of day.',

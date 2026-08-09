@@ -1,7 +1,7 @@
 export const muffins = {
   name: 'Muffins',
   param: 'muffins',
-  recipeImage: '../assets/images/muffins.jpg',
+  recipeImage: 'assets/images/muffins.jpg',
   star: false,
   introText:
     'These moist and hearty classic muffins are a delicious twist on a classic sponge cake. Perfect for a wholesome breakfast or snack!',

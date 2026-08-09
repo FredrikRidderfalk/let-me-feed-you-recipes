@@ -1,7 +1,7 @@
 export const mangoSerranoMuffins = {
   name: 'Mango Serrano Muffins',
   param: 'mango-serrano-muffins',
-  recipeImage: '../assets/images/mango-serrano-muffins.jpg',
+  recipeImage: 'assets/images/mango-serrano-muffins.jpg',
   star: false,
   introText:
     'These unique mango serrano muffins combine the tropical sweetness of ripe mango with a subtle kick from fresh serrano chili. Perfect for adventurous snackers or as a surprising breakfast treat!',

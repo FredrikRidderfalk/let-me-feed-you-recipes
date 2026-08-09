@@ -1,7 +1,7 @@
 export const padKraPao = {
   name: 'Pad Kra Pao',
   param: 'pad-kra-pao',
-  recipeImage: '../assets/images/pad-kra-pao.jpg',
+  recipeImage: 'assets/images/pad-kra-pao.jpg',
   star: false,
   introText:
     'A Thai-inspired vegan Pad Kra Pao made with chickpeas and fragrant holy basil for a flavorful, plant-based twist on a classic.',

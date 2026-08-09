@@ -1,7 +1,7 @@
 export const salsa = {
   name: 'Salsa',
   param: 'salsa',
-  recipeImage: '../assets/images/salsa.jpg',
+  recipeImage: 'assets/images/salsa.jpg',
   star: false,
   introText:
     'This fresh and zesty salsa is perfect for dipping, topping tacos, or adding a burst of flavor to any dish.',

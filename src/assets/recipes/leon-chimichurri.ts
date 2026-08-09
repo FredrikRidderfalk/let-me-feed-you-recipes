@@ -1,7 +1,7 @@
 export const leonChimichurri = {
   name: 'León Chimichurri',
   param: 'leon-chimichurri',
-  recipeImage: '../assets/images/leon-chimichurri.jpg',
+  recipeImage: 'assets/images/leon-chimichurri.jpg',
   star: false,
   introText: 'A creamy and flavorful chimichurri-style sauce with a León twist.',
   description:

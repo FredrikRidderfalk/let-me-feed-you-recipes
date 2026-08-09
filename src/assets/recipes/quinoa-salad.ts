@@ -1,7 +1,7 @@
 export const quinoaSalad = {
   name: 'Quinoa Salad',
   param: 'quinoa-salad',
-  recipeImage: '../assets/images/quinoa-salad.jpg',
+  recipeImage: 'assets/images/quinoa-salad.jpg',
   star: false,
   introText:
     'A fresh and filling quinoa salad that combines roasted chickpeas, cauliflower, and vibrant veggies for a nutrient-packed, flavorful dish.',

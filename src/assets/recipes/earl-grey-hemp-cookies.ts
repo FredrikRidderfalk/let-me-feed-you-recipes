@@ -1,7 +1,7 @@
 export const earlGreyHempCookies = {
   name: 'Earl Grey Hemp Cookies',
   param: 'earl-grey-hemp-cookies',
-  recipeImage: '../assets/images/earl-grey-hemp-cookies.jpg',
+  recipeImage: 'assets/images/earl-grey-hemp-cookies.jpg',
   star: false,
   introText:
     'A fragrant twist on classic chocolate chip cookies, infused with aromatic Earl Grey tea and nutty hemp seeds for added texture and depth.',

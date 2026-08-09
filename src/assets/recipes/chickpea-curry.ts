@@ -1,7 +1,7 @@
 export const chickpeaCurry = {
   name: 'Chickpea Curry',
   param: 'chickpea-curry',
-  recipeImage: '../assets/images/chickpea-curry.jpg',
+  recipeImage: 'assets/images/chickpea-curry.jpg',
   star: false,
   introText: 'An easy chickpea curry that’s full of flavor, especially some hours after making it.',
   description:

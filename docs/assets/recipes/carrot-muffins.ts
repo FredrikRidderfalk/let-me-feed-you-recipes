@@ -1,7 +1,7 @@
 export const carrotMuffins = {
   name: 'Carrot Muffins',
   param: 'carrot-muffins',
-  recipeImage: '../assets/images/carrot-muffins.jpg',
+  recipeImage: 'assets/images/carrot-muffins.jpg',
   star: false,
   introText:
     'Warmly spiced carrot muffins with cinnamon, cardamom, and nutmeg — moist, fragrant, and perfect for autumn.',

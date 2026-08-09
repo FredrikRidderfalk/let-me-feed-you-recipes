@@ -1,7 +1,7 @@
 export const bulgurSalad = {
   name: 'Kısır',
   param: 'bulgur-salad',
-  recipeImage: '../assets/images/bulgur-salad.jpg',
+  recipeImage: 'assets/images/bulgur-salad.jpg',
   star: false,
   introText: 'Known in Turkey as Kısır, a bulgur salad packed with fresh vegetables, herbs, and sour notes.',
   description:

@@ -1,7 +1,7 @@
 export const waffles = {
   name: 'Waffles',
   param: 'waffles',
-  recipeImage: '../assets/images/waffles.jpg',
+  recipeImage: 'assets/images/waffles.jpg',
   star: false,
   introText: 'These light and crispy waffles are perfect for a cozy breakfast or brunch.',
   description:

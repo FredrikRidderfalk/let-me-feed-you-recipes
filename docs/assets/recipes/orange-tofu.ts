@@ -1,7 +1,7 @@
 export const orangeTofu = {
   name: 'Orange Tofu Donburi',
   param: 'orange-tofu',
-  recipeImage: '../assets/images/orange-tofu.jpg',
+  recipeImage: 'assets/images/orange-tofu.jpg',
   star: true,
   introText: 'A flavorful and tangy orange tofu donburi that is perfect for a quick and satisfying meal.',
   description:

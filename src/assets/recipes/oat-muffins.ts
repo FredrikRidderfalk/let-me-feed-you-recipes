@@ -1,7 +1,7 @@
 export const oatMuffins = {
   name: 'Oat Muffins',
   param: 'oat-muffins',
-  recipeImage: '../assets/images/oat-muffins.jpg',
+  recipeImage: 'assets/images/oat-muffins.jpg',
   star: false,
   introText:
     'These moist and hearty oat muffins are a delicious twist on a classic sponge cake. Perfect for a wholesome breakfast or snack!',

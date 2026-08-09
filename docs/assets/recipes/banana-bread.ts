@@ -1,7 +1,7 @@
 export const bananaBread = {
   name: 'Banana Bread',
   param: 'banana-bread',
-  recipeImage: '../assets/images/banana-bread.jpg',
+  recipeImage: 'assets/images/banana-bread.jpg',
   star: false,
   introText: 'Perfect for any occasion, and a great picnic food. An ideal way to use up browned, mushy bananas.',
   description:

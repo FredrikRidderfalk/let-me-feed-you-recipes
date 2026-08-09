@@ -1,7 +1,7 @@
 export const basilStrawberryMuffins = {
   name: 'Basil Strawberry Muffins',
   param: 'basil-strawberry-muffins',
-  recipeImage: '../assets/images/basil-strawberry-muffins.png',
+  recipeImage: 'assets/images/basil-strawberry-muffins.png',
   star: false,
   introText:
     'These unique basil strawberry muffins combine the sweet, juicy flavor of strawberries with the aromatic freshness of basil.',

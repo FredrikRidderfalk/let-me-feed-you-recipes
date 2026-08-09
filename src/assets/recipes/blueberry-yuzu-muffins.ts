@@ -1,7 +1,7 @@
 export const blueberryYuzuMuffins = {
   name: 'Blueberry Yuzu Muffins',
   param: 'blueberry-yuzu-muffins',
-  recipeImage: '../assets/images/blueberry-yuzu-muffins.jpg',
+  recipeImage: 'assets/images/blueberry-yuzu-muffins.jpg',
   star: false,
   introText:
     'These delightful muffins combine the sweetness of blueberries with the bright, citrusy flavor of yuzu. A perfect balance of fruity and tangy!',

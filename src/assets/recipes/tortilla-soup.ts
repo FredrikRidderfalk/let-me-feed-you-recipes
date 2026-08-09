@@ -1,7 +1,7 @@
 export const tortillaSoup = {
   name: 'Tortilla Soup',
   param: 'tortilla-soup',
-  recipeImage: '../assets/images/tortilla-soup.jpg',
+  recipeImage: 'assets/images/tortilla-soup.jpg',
   star: true,
   introText:
     'A hearty and flavorful soup that originated in Mexico. A one-pot dish ready in just 15 minutes and we can add just about anything in it.',
