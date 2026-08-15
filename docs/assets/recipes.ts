@@ -107,8 +107,10 @@ import { enfrijoladas } from './recipes/enfrijoladas';
 import { cigKofte } from './recipes/cig-kofte';
 import { lynchburgLemonade } from './recipes/lynchburg-lemonade';
 import { gochujangTofuNoodles } from './recipes/gochujang-tofu-noodles';
+import { koreanAppleCurry } from './recipes/korean-apple-curry';
 
 export const Recipes = [
+  koreanAppleCurry,
   gochujangTofuNoodles,
   lynchburgLemonade,
   cigKofte,
