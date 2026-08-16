@@ -1,7 +1,7 @@
 export const koreanAppleCurry = {
   name: 'Korean Apple Curry',
   param: 'korean-apple-curry',
-  recipeImage: 'assets/images/kare-raisu.jpg',
+  recipeImage: 'assets/images/korean-apple-curry.jpg',
   star: false,
   introText: 'Smoked tofu, carrot, and apple in a sweet-savory galbi sauce, served over rice.',
   description:
